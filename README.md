@@ -7,7 +7,7 @@ This project focuses on **clean design**, **scalable code structure**, and **bes
 ---
 
 ## 📸 Preview
-![Project Screenshot](./assets/sample_view.png)  
+![Project Screenshot](./src/assets/sample_view.png)  
 ---
 
 ## ✨ Features
